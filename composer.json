@@ -1,11 +1,13 @@
 {
     "name": "sunnysideup/schedulizer",
-    "description": "A module for organising stuff to happen at arbitrary times in the future, useful with QueuedJobs",
+    "description": "A silverstripe module for organising stuff to happen at arbitrary times in the future, useful with QueuedJobs",
     "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
         "schedule",
-        "queuedjobs"
+        "queuedjobs",
+        "calendar",
+        "calculate days"
     ],
     "license": "BSD-3-Clause",
     "authors": [
