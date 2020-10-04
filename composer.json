@@ -1,5 +1,5 @@
 {
-    "name": "sunnysideup/silverstripe-schedulizer",
+    "name": "sunnysideup/schedulizer",
     "description": "A module for organising stuff to happen at arbitrary times in the future, useful with QueuedJobs",
     "type": "silverstripe-vendormodule",
     "keywords": [
